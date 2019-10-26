@@ -1,0 +1,12 @@
+export const TX_DIR_FALLBACK = "./";
+export const TX_OUT_FALLBACK = "build";
+export const TX_RESDIR_FALLBACK = "resources";
+export const TX_LIBDIR_FALLBACK = "lib";
+export const TX_OUTFUNC_FALLBACK = TX_OUT_FALLBACK + "/"
+export const TX_OUTRES_FALLBACK = TX_OUT_FALLBACK + "/node_modules"
+export const TX_OUTLIB_FALLBACK = TX_OUT_FALLBACK + "/node_modules"
+export const TX_SERVICE = "my-service"
+export const TX_STAGE = "dev"
+export const TX_REGION = "eu-west-1"
+export const TX_PROVIDER = "aws"
+export const TX_RUNTIME = "nodejs10.x"
